@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMqApplication", "RabbitMqApplication\RabbitMqApplication.csproj", "{025BA849-2597-4CAA-B793-1A2A4BC52948}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderConsumer", "OrderConsumer\OrderConsumer.csproj", "{82771CC9-AFCE-4985-A58E-44C075E6CB5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{025BA849-2597-4CAA-B793-1A2A4BC52948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025BA849-2597-4CAA-B793-1A2A4BC52948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025BA849-2597-4CAA-B793-1A2A4BC52948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025BA849-2597-4CAA-B793-1A2A4BC52948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82771CC9-AFCE-4985-A58E-44C075E6CB5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82771CC9-AFCE-4985-A58E-44C075E6CB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82771CC9-AFCE-4985-A58E-44C075E6CB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82771CC9-AFCE-4985-A58E-44C075E6CB5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
